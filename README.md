@@ -3,8 +3,18 @@
 - create react app
 - create develeopment branch in ngpt-dev
 - setup tailwind
+- Header
+- Routing
 - Signin form
 - Signup form
+- Signin/Signup form frontend validation
+- Firebase setup
+- Deploying app to production
+- Build Authentication
+- implement signin and signup user apis
+- setup redux store with useslice
+- implemented signout
+- update profile api implemented
 
 # Features
 
